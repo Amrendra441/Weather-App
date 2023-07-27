@@ -22,3 +22,5 @@ Technologies Used
 HTML5 : For  the frontend user interface and interactivity.
 
 Rapid API: For fetching real-time weather data from various sources.
+
+JavaScript
